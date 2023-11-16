@@ -34,3 +34,7 @@ build/
 
 ### Docker
 .data
+
+### SQL
+.sql
+*.sql
